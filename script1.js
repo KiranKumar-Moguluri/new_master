@@ -53,6 +53,7 @@ const boxClicked = (e) =>{
 
         currentPlayer=currentPlayer==player0?playerX:player0;
     }
+    
 };
 
 const playerWon=()=>{
